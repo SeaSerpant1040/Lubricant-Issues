@@ -1,7 +1,7 @@
 # Lubricant-Issues
 Report bugs/issues within Lubricant Mod
 ### 📌 Issue Summary
-A short description of the problem. What happened, and what did you expect to happen instead?
+Provide a description of the problem. What happened, and what did you expect to happen instead?
 
 ---
 
