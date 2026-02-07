@@ -12,7 +12,7 @@ Lubricant requires access to a copy of the *Java Edition* release of *Minecraft*
 ---
 ## 📋 Reporting An Issue
 ### Issue description:
-*Provide us with a description of your issue. Give us as mujch detail as possible. Replace this text with your issue description.*
+*Provide us with a description of your issue. Give us as much detail as possible. Replace this text with your issue description.*
 
 ### How to reproduce this issue (if applicable):
 *If you know how to reproduce the issue, provide us a list of steps here. This will help us greatly in solving the problem. Add as many steps as necessary.*
